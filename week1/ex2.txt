@@ -1,0 +1,456 @@
+    1  man sudo_root
+    2  man make
+    3  make
+    4  sudo apt install make
+    5  make
+    6  man make
+    7  man qsort
+    8  gcc
+    9  sudo apt install gcc
+   10  sudo apt install --fix-missing gcc
+   11  sudo apt install --fix-missing
+   12  gcc
+   13  sudo apt update
+   14  sudo apt upgrade
+   15  sudo apt install gcc
+   16  sudo apt install fish
+   17  chsh
+   18  fish
+   19  gdb
+   20  killall -9 gdbserver 
+   21  sleep 5 && killall -9 gdbserver 
+   22  man rf
+   23  rf man
+   24  rm man
+   25  man rm
+   26  gdbserver :1234
+   27  gdbserver :1234 D:\study\ITP2\ass2\cmake-build-debug\ass2
+   28  gdbserver :1234 D:/study/ITP2/ass2/cmake-build-debug/ass2
+   29  echo 1
+   30  echo $((2*3))
+   31  echo $((2*3*4))
+   32  echo $((2*3*4*5))
+   33  echo $((2*3*4*5*6))
+   34  python3
+   35  cd /mnt/d/study/ITP2/ass2/
+   36  ls
+   37  cd cmake-build-debug/
+   38  ls
+   39  ./ass2.exe &
+   40  gdbserver :1234 /mnt/d/study/ITP2/ass2/cmake-build-debug/ass2
+   41  kill
+   42  killall
+   43  killall -9 gdbserver
+   44  python3 run_locally.py 
+   45  pip install sc2
+   46  sudo apt install python-pip
+   47  pip install sc2
+   48  sudo apt install pyenv
+   49  sudo apt install sudo apt install python3-pip
+   50  sudo apt install python3-pip
+   51  pip3 install sc2
+   52  python3 run_locally.py 
+   53  main.c
+   54  cd mnt
+   55  cd ..
+   56  cd mnt/d/Projects/C++/test
+   57  main.c
+   58  cd mnt/d/Projects/C++/test/cmake-build-debug
+   59  dir
+   60  cd mnt/d/Projects/C++/test/cmake-build-debug
+   61  cd cmake-build-debug
+   62  main.c
+   63  gcc main.c
+   64  main.exe
+   65  test
+   66  gcc main.c -o test.exe
+   67  cd ..
+   68  gcc main.c -o test.exe
+   69  test
+   70  test.exe
+   71  sudo apt get swig
+   72  g++ -version
+   73  g++
+   74  g++ version
+   75  g++ -version
+   76  sudo apt-get install g++
+   77  g++ -version
+   78  g++ help
+   79  help g++
+   80  info g++
+   81  sudo apt-get install libpcre3 libpcre3-dev
+   82  chmod 777 swig-4.0.0.tar.gz
+   83  cd /
+   84  dir
+   85  cd home
+   86  dir
+   87  cd judicator
+   88  dir
+   89  cd /
+   90  cd mnt
+   91  dir
+   92  cd d
+   93  dir
+   94  cd downloads
+   95  cd /mnt/d/study/internship/swig
+   96  chmod 777 swig-4.0.0.tar.gz
+   97  tar -xzvf swig-4.0.0.tar.gz
+   98  ./configure --prefix=/mnt/d/study/internship/swigtool
+   99  cd internship
+  100  cd //
+  101  cd /mnt/d/study/internship
+  102  dir
+  103  cd swig_install
+  104  ./configure --prefix=/mnt/d/study/internship/swigtool
+  105  dir
+  106  cd swig-4.0.0
+  107  ./configure --prefix=/mnt/d/study/internship/swigtool
+  108  sudo make
+  109  sudo make install
+  110  sudo vim etc/profile
+  111  export SWIG_PATH=/mnt/d/study/internship/swigtool/bin
+  112  export PATH=$SWIG_PATH:$PATH
+  113  source /etc/profile
+  114  $ swig -version
+  115  swig -version
+  116  cd /mnt/d/study/internship/test
+  117  swig -python example.i
+  118  env
+  119  cd $HOME
+  120  .bashrc
+  121  dir
+  122  export PATH=/mnt/d/study/internship/swigtool/bin
+  123  echo $PATH
+  124  sudo /etc/profile
+  125  export PATH=$SWIG_PATH:$PATH
+  126  echo $PATH
+  127  swig
+  128  swig -version
+  129  cd /mnt/d/study/internship/
+  130  dir
+  131  ls
+  132  echo /home/judicator/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_1804.2018.817.0_x64__79rhkp1fndgsc:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn:/mnt/c/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/JudicatoR/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2018.3.3/bin:/mnt/c/Program Files/JetBrains/CLion 2018.3.3/bin:/mnt/c/adb:/mnt/d/progs/PyCharm 2019.1.1/bin:/snap/bin:/mnt/d/study/internship/swigtool/bin
+  133  echo /home/judicator/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_1804.2018.817.0_x64__79rhkp1fndgsc:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn:/mnt/c/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/JudicatoR/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2018.3.3/bin:/mnt/c/Program Files/JetBrains/CLion 2018.3.3/bin:/mnt/c/adb:/mnt/d/progs/PyCharm 2019.1.1/bin:/snap/bin:/mnt/d/study/internship/swigtool/bin > PATH
+  134  export PATH=/home/judicator/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_1804.2018.817.0_x64__79rhkp1fndgsc:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn:/mnt/c/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/JudicatoR/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2018.3.3/bin:/mnt/c/Program Files/JetBrains/CLion 2018.3.3/bin:/mnt/c/adb:/mnt/d/progs/PyCharm 2019.1.1/bin:/snap/bin:/mnt/d/study/internship/swigtool/bin
+  135  echo $PATH
+  136  cd home
+  137  cd /
+  138  cd home
+  139  dir
+  140  cd /
+  141  export PATH=/home/judicator/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/'CanonicalGroupLimited.UbuntuonWindows_1804.2018.817.0_x64__79rhkp1fndgsc:/mnt/c/Program Files (x86)/Common Files/Oracle/Java/javapath':/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn:/mnt/c/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/JudicatoR/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2018.3.3/bin:/mnt/c/Program Files/JetBrains/CLion 2018.3.3/bin:/mnt/c/adb:/mnt/d/progs/PyCharm 2019.1.1/bin:/snap/bin:/mnt/d/study/internship/swigtool/bin
+  142  export PATH=/home/judicator/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_1804.2018.817.0_x64__79rhkp1fndgsc:/mnt/c/Program Files \(x86\)/Common Files/Oracle/Java/javapath:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn:/mnt/c/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/JudicatoR/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2018.3.3/bin:/mnt/c/Program Files/JetBrains/CLion 2018.3.3/bin:/mnt/c/adb:/mnt/d/progs/PyCharm 2019.1.1/bin:/snap/bin:/mnt/d/study/internship/swigtool/bin
+  143  export PATH=/home/judicator/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/mnt/c/Program Files/WindowsApps/CanonicalGroupLimited.UbuntuonWindows_1804.2018.817.0_x64__79rhkp1fndgsc:/mnt/c/Windows/System32:/mnt/c/Windows:/mnt/c/Windows/System32/wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0:/mnt/c/Windows/System32/OpenSSH:/mnt/c/Program Files/Microsoft SQL Server/130/Tools/Binn:/mnt/c/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin:/mnt/c/Program Files/Git/cmd:/mnt/c/Users/JudicatoR/AppData/Local/Microsoft/WindowsApps:/mnt/c/Program Files/JetBrains/IntelliJ IDEA 2018.3.3/bin:/mnt/c/Program Files/JetBrains/CLion 2018.3.3/bin:/mnt/c/adb:/mnt/d/progs/PyCharm 2019.1.1/bin:/snap/bin:/mnt/d/study/internship/swigtool/bin
+  144  echo $PATH
+  145  export PATH=/usr/bin:/mnt/d/study/internship/swigtool/bin
+  146  echo PATH
+  147  echo $PATH
+  148  env
+  149  dir
+  150  export PATH=$PATH:/bin
+  151  echo $PATH
+  152  env
+  153  dir
+  154  cd /mnt/d/study/internship/
+  155  dir
+  156  cd test
+  157  dir
+  158  swig -python example.i
+  159  gcc -c example_wrap.c
+  160  gcc -c example_wrap.c -I/usr/local/include/python3
+  161  sudo apt-get install python3-dev
+  162  python
+  163  python3
+  164  help python3
+  165  python3 help
+  166  nano ~/.bashrc
+  167  python
+  168  nano ~/.bashrc
+  169  python
+  170  nano ~/.bashrc
+  171  python3
+  172  whereis python3
+  173  echo $PATH
+  174  gcc -c example_wrap.c -I/usr/local/include/python3
+  175  cd /urs/local/include
+  176  cd /usr
+  177  dir
+  178  cd local
+  179  dir
+  180  cd include
+  181  dir
+  182  cc -fpic -c $(SRCS)
+  183  cd /mnt/d/study/internship/
+  184  dir
+  185  cd test
+  186  cc -fpic -c $(example.c)
+  187  cc -fpic -c example.c
+  188  ld -shared example.o -o module.so
+  189  python
+  190  python3
+  191  objdump
+  192  objdump -d example.o
+  193  ld -shared example.o -o _example.so
+  194  python3
+  195  cc -fpic -c example.c
+  196  ld -shared example.o -o example.so
+  197  swig -python3 example.i
+  198  python
+  199  alias python=python3
+  200  python
+  201  swig -python example.i
+  202  gcc -fpic -I/usr/include/python3 -c example_wrap.c
+  203  gcc
+  204  help gcc
+  205  man -k gcc
+  206  info gcc
+  207  gcc -fpic -I/usr/include/python2.6 -c module_wrap.c
+  208  gcc -fpic -I/usr/include/python2.6 -c example_wrap.c
+  209  cd /mnt/d/study/internship/test/
+  210  gcc -fpic -c example.c example_wrap.c -I/usr/local/include
+  211  sudo apt-get instal python3-dev
+  212  sudo apt-get install python3-dev
+  213  find Python.h
+  214  cd /
+  215  find Python.h
+  216  whatis find
+  217  whatis locate
+  218  locate Python.h
+  219  find python
+  220  cd home
+  221  dir
+  222  cd judicator
+  223  dir
+  224  cd mnt
+  225  cd /mnt
+  226  dir
+  227  cd d
+  228  dir
+  229  cd /
+  230  dir
+  231  cd usr
+  232  dir
+  233  cd include
+  234  dir
+  235  python3.6
+  236  cd /mnt/d/study/internship/test/
+  237  gcc -fpic -c example.c example_wrap.c -I/usr/local/include/python3.6
+  238  gcc -fpic -c example.c example_wrap.c -I/usr/local/include/python3.6 -lpython3.6
+  239  delete python3
+  240  dpkg --list
+  241  sudo apt-get purge --auto-remove python
+  242  dpkg --lisyt
+  243  dpkg --list
+  244  gcc -fpic -c example.c example_wrap.c -I/usr/local/include/python3.6 -lpython3.6
+  245  sudo apt-get purge --auto-remove python3
+  246  dpkg --list
+  247  python
+  248  sudo apt-get purge --auto-remove python3.6
+  249  dpkg --list
+  250  python
+  251  sudo apt-get install python3-dev
+  252  python
+  253  cd /usr/local/include
+  254  dir
+  255  /
+  256  dir
+  257  ld
+  258  ls
+  259  cd /usr
+  260  dir
+  261  cd include
+  262  dir
+  263  cd /usr
+  264  dir
+  265  cd include
+  266  dir
+  267  man gcc
+  268  gcc -fpic help
+  269  man gcc -fpic
+  270  cd /mnt/d/study/internship/test/
+  271  gcc -fpic -c example.c example_wrap.c
+  272  swig -python3 example.i
+  273  help swig
+  274  $PATH
+  275  c\\
+  276  cd \\
+  277  cd ..
+  278  dir
+  279  cd swigtool
+  280  dir
+  281  export PATH=$PATH:/mnt/d/study/internship/swigtool/bin
+  282  $PATH
+  283  printenc
+  284  printenv
+  285  cd ..
+  286  cd test
+  287  swig -python3 example.i
+  288  swig -help
+  289  swig -python example.i
+  290  dir
+  291  gcc -c example.c example_wrap.c -I/usr/include/python3.6
+  292  dir
+  293  ld -shared example.o example_wrap.o -o example.so
+  294  gcc -c -fPIC example.c example_wrap.c -I/usr/include/python3.6
+  295  dir
+  296  ld -shared example.o example_wrap.o
+  297  ld -shared example.o example_wrap.o -o example.so
+  298  python
+  299  python2
+  300  python
+  301  python3
+  302  swig -help
+  303  swig -Wall -python example.i
+  304  swig -python -help
+  305  swig -python -py3 example.i
+  306  gcc -c -fPIC example.c example_wrap.c -I/usr/include/python3.6
+  307  ld -shared example.o example_wrap.o -o example.so
+  308  python
+  309  cc -help
+  310  man cc
+  311  whereis python2
+  312  python2
+  313  python3
+  314  cc -fpic -c example.c
+  315  dir
+  316  ld -shared example.o -o example.so
+  317  dir
+  318  python
+  319  swig -python -help
+  320  swig -python -py3 example.i
+  321  dir
+  322  gcc -fpic -I/usr/include/python3.6 -c example_wrap.c
+  323  dir
+  324  gcc -shared example_wrap.o -o example.so
+  325  python
+  326  swig -python -py3 example.i
+  327  gcc -fpic -I/usr/include/python3.6 -c example_wrap.c
+  328  gcc -shared example_wrap.o -o example.so
+  329  python
+  330  swig -python -py3 example.i
+  331  gcc -fpic -I/usr/include/python3.6 -c example_wrap.c
+  332  gcc -shared example_wrap.o -o example.so
+  333  python
+  334  swig -python -py3 example.i
+  335  gcc -fpic -I/usr/include/python3.6 -c example_wrap.c
+  336  gcc -shared example_wrap.o -o example.so
+  337  python
+  338  swig -python -py3 example.i
+  339  gcc -c -fpic example.c example_wrap.c -I/usr/include/python3.6
+  340  gcc -shared example.o example_wrap.o -o example.so
+  341  python
+  342  swig -help
+  343  swig -version
+  344  sudo apt-get -help
+  345  apt-get
+  346  sudo apt-get upgrade swig
+  347  swig -version
+  348  swig -python -py3 example.i
+  349  gcc -fpic -c example.c example_wrap.c -I/usr/include/python3.6
+  350  gcc -shared example.o example_wrap.o -o _example.so
+  351  dir
+  352  python
+  353  cd /mnt/d/study/internship/libmol2
+  354  dir
+  355  swig -python -py3 pylibmol2.i
+  356  dir
+  357  gcc -c -fpic atom_group.h pylibmol2_wrap.c -I/usr/include/python3.6
+  358  gcc -c -fpic atom_group.h pylibmol2_wrap.c -I/mnt/d/study/internship/libmol2
+  359  gcc -c -fpic pylibmol2_wrap.c -I/mnt/d/study/internship/libmol2
+  360  gcc -c -fpic pylibmol2_wrap.c -I/usr/include/python3.6
+  361  swig -python -py3 pylibmol2.i
+  362  gcc -c -fpic pylibmol2_wrap.c -I/usr/include/python3.6
+  363  sudo apt install build-essential git cmake libjansson4 libjansson-dev gperf check lcov pkg-config
+  364  git clone https://bitbucket.org/bu-structure/libmol2.git && cd libmol2
+  365  mkdir build && cd build && cmake -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTS=YES -DCMAKE_INSTALL_PREFIX=$HOME ..
+  366  make && make test
+  367  dir
+  368  cd ..
+  369  dir
+  370  cd src
+  371  dir
+  372  cd home
+  373  cd /home
+  374  dir
+  375  cd judicator
+  376  cd /mnt/d/study/internship/libmol2
+  377  dir
+  378  swig -python -py3 pylibmol2.i
+  379  swig -python -py3 -I/home/judicator/libmol2/src pylibmol2.i
+  380  swig -python -I/home/judicator/libmol2/src pylibmol2.i
+  381  swig -python -py3 -I/home/judicator/libmol2/src pylibmol2.i
+  382  dir
+  383  gcc -c -fpic pylibmol2_wrap.c
+  384  gcc -c -fpic pylibmol2_wrap.c -I/usr/include/python3.6
+  385  gcc -c -fpic pylibmol2_wrap.c -I/usr/include/python3.6 -I/home/judicator/libmol2/src
+  386  dir
+  387  gcc -shared pylibmol2_wrap.o -o _pylibmol2.so
+  388  python
+  389  ld help
+  390  ld -help
+  391  gcc -c -fpic atom_group.h atom_group.c pylobmol2_wrap.c -I/usr/include/python3.6 -I/home/judicator/libmol2/src
+  392  gcc -c -fpic atom_group.h atom_group.c pylibmol2_wrap.c -I/usr/include/python3.6 -I/home/judicator/libmol2/src
+  393  gcc -c -fpic -I/home/judicator/libmol2/src atom_group.h atom_group.c pylibmol2_wrap.c -I/usr/include/python3.6
+  394  cd /home/judicator/libmol2/src
+  395  dir
+  396  gcc -help
+  397  gcc help
+  398  gcc man
+  399  man gcc
+  400  cd /mnt/d/study/internship/libmol2
+  401  swig -python -py3 pylibmol2.i
+  402  swig -python -py3 pylibmol2.i -I/home/judicator/libmol2/src
+  403  swig -python -py3 -I/home/judicator/libmol2/src pylibmol2.i
+  404  dir
+  405  cmake
+  406  cmake -version
+  407  inf
+  408  env
+  409  clc
+  410  clear
+  411  cd home
+  412  dir
+  413  cd /
+  414  dir
+  415  cd home
+  416  cd
+  417  cd usr
+  418  dir
+  419  cd /bin
+  420  dir
+  421  cd mnt
+  422  cd /mnt
+  423  dir
+  424  cd /
+  425  cd home
+  426  dir
+  427  cd jusicator
+  428  cd judicator
+  429  dir
+  430  cd /home
+  431  mkdir ~/week1
+  432  dir
+  433  mkdir /home/week1
+  434  $ssh -X judicator@osc-[N].edu.innopolis.ru
+  435  mkdir /home/judicator/week1
+  436  cd /home/judicator/
+  437  ls
+  438  dir
+  439  ls
+  440  cd week1
+  441  ls
+  442  man grep
+  443  grep gcc /usr/bin
+  444  ls /usr/bin | grep gcc | sort -r -> ex1.txt
+  445  ls
+  446  gedit ex1.txt
+  447  man gedit
+  448  cat ex1.txt 
+  449  cd ..
+  450  cd..
+  451  cd ..
+  452  cd ~
+  453  ls
+  454  cd week1
+  455  grep week
+  456  history > ex2.txt
