@@ -1,0 +1,2 @@
+   text	   data	    bss
+   2121	    640	      8
