@@ -1,0 +1,14 @@
+For simplicity, let's consider 3 frames case. For a string:
+
+1 2 3 4 1 2 3 4 1 2 3 4
+
+We have 0 hits, which is very poor. First reference to the page 4 will replace the oldest page 1, which will call right after, and the same will happen with next pages.
+
+For this string:
+
+1 2 3 4 2 3 4 2 3 4 1 1
+
+We will have solid 7 hits, because we reference pages with the lowest age in memory to force them to stay here.
+
+Summary: the ageing algorithm is not very good algorithm.
+
