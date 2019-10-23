@@ -1,0 +1,2 @@
+/home/judicator/labs/week1/file.txt
+/home/judicator/labs/week10/_ex2.txt
