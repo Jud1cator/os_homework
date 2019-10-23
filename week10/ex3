@@ -1,3 +1,0 @@
-660 - user and group have rw, other have no rights
-775 - user and group have rwx, other have rx
-777 - everybody has rwx
