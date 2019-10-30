@@ -1,0 +1,8 @@
+Output of the first program:
+Hello
+Hello
+Second:
+Hello
+
+
+This is so because fork() copies parent's buffer and prints the content when a newline character is inserted. The first program's child gets "Hello" in buffer, then the second gets the empty buffer because \n was inserted.
