@@ -1,0 +1,20 @@
+I used this file for tests:
+
+dd if=/dev/zero of=test.exe bs=1M count=4
+
+Without O_SYNC flag:
+
+DBUF_SIZE=500   : 0.021s
+DBUF_SIZE=1000  : 0.012s
+DBUF_SIZE=5000  : 0.006s
+
+With O_SYNC flag:
+
+DBUF_SIZE=500   : 16.341s
+DBUF_SIZE=1000  :  8.219s
+DBUF_SIZE=5000  :  1.677s
+
+Usage of O_SYNC drastically drops the performance, because we don't use parallel DMA anymore
+
+
+
