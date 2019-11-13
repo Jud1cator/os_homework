@@ -1,0 +1,16 @@
+1. Recovery from deadlocks
+Preemption - depends on resource, not always possible and hard to implement, need to save process state
+Rollback - also hard to implement, impossible in some cases - some changes cannot be undone
+Killing - simple, but dangerous, may cause 'ill effects'
+
+In some situations we may try to recovery from deadlocks, when nature of resources is simple and ny changes can be easily undone. But still, it is hard to implement, or may lead to some bad consequences.
+
+2. Avoidance
+
+If we have information about future processes' needs in resources, this may work. But such information is rarely available. We may try to predict it, but then it is not guaranteed that we won't have a deadlock.
+
+3. Prevention
+
+Not always possible or hard to implement.
+
+Summary: There is no good universal approach to deal with deadlocks. Cases have to be more specifed.
